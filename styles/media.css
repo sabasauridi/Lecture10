@@ -24,11 +24,15 @@
 @media only screen and (max-width: 1024px) {
   .parentdiv {
     flex-wrap: wrap;
+    width: 250px;
+    height: 180px;
   }
 }
 @media only screen and (max-width: 840px) {
   .parentdiv {
     flex-wrap: wrap;
+    width: 230px;
+    height: 170px;
   }
 }
 @media only screen and (max-width: 600px) {
