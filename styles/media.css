@@ -1,0 +1,39 @@
+@media only screen and (max-width: 840px) {
+  nav {
+    display: none;
+  }
+  #bar {
+    display: block;
+  }
+}
+@media only screen and (max-width: 623px) {
+  .txt {
+    font-size: 70px;
+  }
+}
+@media only screen and (max-width: 552px) {
+  .txt {
+    font-size: 60px;
+  }
+}
+@media only screen and (max-width: 474px) {
+  .txt {
+    font-size: 50px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .div1 .parentdiv {
+    flex-wrap: wrap;
+  }
+}
+@media only screen and (max-width: 840px) {
+    .div1 .parentdiv {
+      flex-wrap: wrap;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .div1 .parentdiv {
+      flex-wrap: wrap;
+    }
+  }
+  
